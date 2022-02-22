@@ -72,7 +72,6 @@ hint.addEventListener("click", function(){
 for (var k = 0; k < mainWords.length; k++) {
     if (word === mainWords[k]){
         alert(hintWords[k]);
-     
     }
     if (word === mainWords[k]) {
         alert(hintWordsTwo[k]);
