@@ -1,0 +1,32 @@
+#form-wrapper {
+    width: max-content;
+    height: max-content;
+    border: 0.5em solid coral;
+    margin: 0 auto;
+    text-align: center;
+}
+#tableDiv {
+	width: max-content;
+	margin: 0 auto;
+	margin-bottom: 15px;
+}
+#inputletter {
+	width: 255px;
+	height: 35px;
+	border: 2px solid rgb(114, 15, 15);
+}
+#hint {
+	width: 65px;
+	height: 35px;
+	border: 2px solid rgb(114, 15, 15);
+}
+#check {
+	width: 65px;
+	height: 35px;
+	border: 2px solid rgb(114, 15, 15);
+}
+#chooseWord {
+	width: 85px;
+	height: 35px;
+	border: 2px solid rgb(114, 15, 15);
+}
